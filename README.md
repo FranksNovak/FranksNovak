@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FranksNovak
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning javascript and react
-- 💞️ I’m looking to collaborate on all react apps. Still new to this technology but I am willing to learn
+- 🌱 I’m currently learning Python
 - 📫 How to reach me. You can contact me at fnovak78@gmail.com
 
 <!---
